@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Very rich lotterie generall, vvithout any blanckes contayning a great number of good prices, as wel of redy money as of plate and certaine costs of marchaundizes, hauing ben valued and priced by the commaundment of the Queenes Most Excellent Maiestie, by men expert and skilfull : and the same lotterie is erected by Hir Maiesties order, to the intent that suche commoditie as may chaunce to arise thereof after the charges borne, may be conuerted towardes the reparation of the hauens, and strength of the realme, and towardes such other publique good workes : the number of lots shall be foure hundreth thousand, and no moe, and euery lot shall be the summe of tenne shillings sterling onely, and no more.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1566</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21694</idno>
+            <idno type="STC">STC 8000.3</idno>
+            <idno type="STC">ESTC S112252</idno>
+            <idno type="EEBO-CITATION">22456176</idno>
+            <idno type="OCLC">ocm 22456176</idno>
+            <idno type="VID">25553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25553)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1775:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Very rich lotterie generall, vvithout any blanckes contayning a great number of good prices, as wel of redy money as of plate and certaine costs of marchaundizes, hauing ben valued and priced by the commaundment of the Queenes Most Excellent Maiestie, by men expert and skilfull : and the same lotterie is erected by Hir Maiesties order, to the intent that suche commoditie as may chaunce to arise thereof after the charges borne, may be conuerted towardes the reparation of the hauens, and strength of the realme, and towardes such other publique good workes : the number of lots shall be foure hundreth thousand, and no moe, and euery lot shall be the summe of tenne shillings sterling onely, and no more.</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at London in Pater noster Rowe, by Henrie Bynneman,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1567]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to the Privy Council by STC (2nd ed.).</note>
+                  <note>Date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lotteries --  England.</term>
+               <term>Lotteries --  Law and legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:25553:1" rendition="simple:additions"/>
+            <head>¶ <hi>A very rich Lotterie generall, without any Blanckes, contayning a great number</hi> of good Prices, aſwel of redy Money as of Plate and certaine ſorts of Marchaundizes, hauing ben valued and priced by the commaundment of the Queenes moſt excellent Maieſtie, by men expert and ſkilfull: and the ſame Lotterie is erected by hir Maieſties order, to the intent that ſuche commoditie as may chaunce to ariſe thereof after the charges borne, may be conuerted towardes the reparation of the Hauens, and ſtrength of the Realme, and towardes ſuch other publique good workes. The number of Lots ſhall be Foure hundreth thouſand, and no moe: and euery Lot ſhall be the ſumme of Tenne ſhillings ſterling onely, and no more.</head>
+            <list>
+               <head>Three Welcomes.</head>
+               <item>
+                  <hi>
+                     <seg rend="decorInit">T</seg>HE FIRST perſon to whome any Lot ſhal happen, ſhal haue for his welcome (byſides the aduauntage of his aduenture)</hi> the value of fiftie poundes ſterling in a piece of ſyluer Plate gilte.</item>
+               <item>
+                  <hi>THE SECOND</hi> to whome any Lot ſhall happen, ſhall haue in like caſe for his welcome (byſydes his aduenture) the ſumme of thirtie poundes in a piece of Plate gilt.</item>
+               <item>
+                  <hi>THE THIRD</hi> to whome any price ſhal happen, ſhal haue for his welcome (biſides his aduenture) the value of twentie pounds in a piece of Plate gilte.</item>
+            </list>
+            <div type="part">
+               <head>The Prices.</head>
+               <p>
+                  <hi>WHOSOEVER ſhall winne <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> greatest and most excellent price, ſhall receiue the value of Fiue thouſande Poundes ſterling, that</hi> is to ſay, Three thouſande Pounds in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ney, Seuen hundreth Poundes in Plate gilte and white, and the reſt in good Tapiſſarie meete for hangings and other couertures, and certaine ſortes or good Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhal winne the ſecond great price, ſhal haue the value of Three thouſand and Fiue hundreth Pounds, that is to ſay, Two thouſand Poundes in ready Money, Six hundreth Poundes in Plate gilt and white, and the reſt in good Tapiſſarie and in Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the third great price, ſhal haue the value of Three thouſand Poundes, that is to ſay, A thouſand &amp; Fiue hundreth Pounds in readie Money, Fiue hundreth Poundes in Plate gilt and white, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the fourth great price, ſhal receiue the value of Two thouſand Poundes, that is to ſay, One thouſand Pounds in ready Money, Foure hun<g ref="char:EOLhyphen"/>dreth Poundes in Plate gilt and white, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhal winne the fifth great price, ſhal receiue the value of One thouſande and Fiue hundreth Pounds, that is to ſay, Seuen hundreth and Fiftie Pounds in ready Money, Three hundreth Poundes in Plate gilt and white, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the ſixt great price, ſhall receiue the value of One thouſand Pounds, that is to ſay, Fiue hundreth Poundes in ready Money, Two hun<g ref="char:EOLhyphen"/>dreth Poundes in Plate gilt and white, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the ſeuenth great price, ſhall receiue the value of Seuen hundreth Poundes, that is to ſay, Foure hundreth Poundes in ready Money, One hundreth Poundes in Plate gilt and white, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the eight great price, ſhall receiue the value of Fiue hundreth Poundes, that is to ſay, Two hundreth and Fifty Pounds in ready Money, One hundreth poundes in Plate gilt and white, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the ninth great price, ſhall receiue the value of Foure hundreth Poundes, that is to ſay, Two hundreth and Fifty Poundes in ready Money One hundreth Poundes in Plate gilt and white, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the tenth great price, ſhall receiue the value of Three hundreth Poundes, that is to ſay, Two hundreth Poundes in ready Money, Fifty Poundes in Plate, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the eleuenth great Price, ſhall receiue the value of Two hundreth and Fiftie Poundes, that is to ſay, One hundreth and Fiftie poundes in ready Money, Fiftie Poundes in Plate, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <pb facs="tcp:25553:2" rendition="simple:additions"/>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the twelfth great price, ſhall receiue the value of Two hundreth Poundes, that is to ſay, in ready Money One hundreth and Fifty Poundes, and the reſt in good Tapiſſarie and Linnen cloth.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall winne the thirtenth great price, ſhall receiue the value of One hundreth and Fourty Poundes, that is to ſay, One hundreth Poundes in ready Mo<g ref="char:EOLhyphen"/>ney, and Fourty Poundes in Plate, Tapiſſarie, or Linnen cloth.</p>
+               <p>
+                  <hi>TVVELVE</hi> prices, euery pryce of the value of One hundreth Poundes, that is to ſay, Three ſcore and Tenne Pounds in ready Money, and Thirtie Poundes in Plate, Ta<g ref="char:EOLhyphen"/>piſſarie, or Linnen cloth.</p>
+               <p>
+                  <hi>TVVENTY</hi> and foure prices, euery price of Fifty Poundes, that is to ſay, Thirty Poundes in ready Money, and Twenty Poundes in Plate, Tapiſſarie, or Linnen cloth.</p>
+               <p>
+                  <hi>THREE</hi> ſcore prices, euery price of Foure and twenty Poundes and Tenne ſhillings, that is to ſay, Seuentene Poundes in ready Money, and Seuen Poundes Tenne ſhillings in Plate.</p>
+               <p>
+                  <hi>FOVRE</hi> ſcore and ten prices, euery price of Two and twenty Poundes Tenne ſhillings, that is to ſay, Fiftene Poundes in ready Money, and Seuen Poundes Tenne ſhillings in Plate.</p>
+               <p>
+                  <hi>ONE</hi> hundreth and fourtene prices, euery pryce of Eightene Poundes, that is to ſay, Twelue Poundes in Money, and Six Poundes in Plate gilt and white.</p>
+               <p>
+                  <hi>ONE</hi> hundreth and twentie prices, euery price of Twelue Pounds and Ten ſhillings, that is to ſay, Seuen Pou<g ref="char:cmbAbbrStroke">̄</g>ds Ten ſhillings in Money, and Fiue Pounds in like Plate.</p>
+               <p>
+                  <hi>ONE</hi> hundreth and fifty prices, euery price of Eight Poundes, that is to ſay, Fiue Poundes in Money, and Three Poundes in Linnen cloth.</p>
+               <p>
+                  <hi>TVVO</hi> hundreth prices, euery price of Six Poundes Tenne ſhillings, that is to ſay, Foure Poundes in Money, and Fifty ſhillings in Linnen cloth.</p>
+               <p>
+                  <hi>THREE</hi> hundreth prices, euery price of Foure Poundes Ten ſhillings, that is to ſay, Fifty ſhillings in Money, and Fourty ſhillings in Linnen Cloth.</p>
+               <p>
+                  <hi>FIVE</hi> hundreth prices, euery price of Three Poundes Ten ſhillings, that is to ſay, Fourty ſhillings in Money, and Thirty ſhillings in Linnen cloth.</p>
+               <p>
+                  <hi>FIVE</hi> hundreth prices, euery price of the value of Three Poundes in Plate.</p>
+               <p>
+                  <hi>FIVE</hi> hundreth prices, euery price of Fiftie ſhillings in Money.</p>
+               <p>
+                  <hi>TVVO</hi> thouſande prices, euery price of Fortie ſhillings in Plate.</p>
+               <p>
+                  <hi>SIX</hi> thouſande prices, euery price of Fiue and twentie ſhillings in Money.</p>
+               <p>
+                  <hi>TEN</hi> thouſand prices, euery price of Fiftene ſhillings in Money.</p>
+               <p>
+                  <hi>NINE</hi> thouſand, Foure hundred and Eightene prices, euery price of Fouretene ſhillings in Money.</p>
+               <p>
+                  <hi>AND</hi> all the reſt to the accompliſhing of the aforeſayd number of Lottes, ſhal be allowed for euery aduenture at the leaſt Two ſhillings &amp; ſix pens in ready Money.</p>
+            </div>
+            <div type="part">
+               <head>¶ Conditions ordained for the aduauntage of the Aduenturers in this Lotterie, <hi>byſides the Prices before mentioned in the Charte.</hi>
+               </head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>HE Queenes Maiestie of hir power royall, giueth libertie to all maner of perſons that will aduenture any Money in this Lotterie, to</hi> reſort to the places vnderwritten, and to abyde and depart from the ſame, in maner and forme following: that is to ſay, to the Citie of London, at any time within the ſpace of one Moneth next folowing the feaſt of S. Bartholomew this preſent yeare. <hi>1567.</hi> and there to remaine ſeuen days: And to theſe Ci<g ref="char:EOLhyphen"/>ties and townes folowing, Yorke, Norwich, Exceter, Lincolne, Couentrie, Southampton, Hull, Briſtoll, Newcaſtell, Cheſter, Ipſwich, Sariſbury, Oxforde, Cambridge and Shreweſbury, in the Realme of Englande, and Dublyn and Waterforde in the Realme of Ireland, at any time within the ſpace of three weekes next after the publication of this Lotterie in euery of the ſayd ſeuerall places, and there to remaine alſo ſeuen whole days, without any mo<g ref="char:EOLhyphen"/>leſtation or arreſt of them for any maner of offenſe, ſauing treaſon, Murder, pyracie, or any other felonie, or for breach of hir Maieſties peace, during the time of their comming, abidyng, or retourne.</p>
+               <p>
+                  <hi>AND</hi> that euery perſon aduenturing their Money in this Lotterie, may haue the like libertie in comming and departing to and from the Citie of London, during all the time of the reading of the ſame Lotterie, vntill their laſt aduenture be to them anſwered.</p>
+               <p>
+                  <hi>ALSO</hi> that whoſoeuer vnder one deuiſe, proſe, or poeſie, ſhall aduenture to the number of Thirtie Lottes and vpward, within three Monethes next folowing after the ſayd feaſt of ſaint Bartholomew, and by the hazarde of the prices contained in this Lotterie, gaineth not the thirde pennie of ſo much as they ſhall haue aduentured, the ſame third pennie, or ſo much as wanteth of the ſame, ſhall be allowed vnto them in a: yearely pention, to begin from the day when the reading of the ſayd Lotterie ſhall ende, and to continue yearely during their life.</p>
+               <pb facs="tcp:25553:3" rendition="simple:additions"/>
+               <p>
+                  <hi>VVHOSOEVER</hi> ſhall gaine the beſt, ſeconde, and thirde great prices, hauing not put in the poſies (wherevnto the ſayd prices ſhall be anſwerable) into the Lotterie, within three Moneths next after the ſaid feaſt of Saint Bartholomew, ſhall haue abated and taken out of the ſumme of Money contained in the ſayd beſt price, One hundreth and Fiftie pounds, and of the ſayd ſecond price One hundreth pounds, and out of the ſaid third price Foure ſcore pounds, to be giuen to any towne corporate, or Hauen, or any other place, for any good and charitable vſe, as the partie ſhall name and appoint in writing.</p>
+               <p>
+                  <hi>AND</hi> whoſoeuer ſhall gaine a Hundreth poundes or vpward, in any price, ſauing the three ſeuerall beſt prices next afore mentioned, hauing not put in his Lots, wherby he ſhall gaine any ſuch price, within three moneths next folowing the ſayd feaſt of Saint Bartholomew, ſhall haue abated and deducted (as aboue is ſayd) out of euery Hundred Poundes Fiue Pounds, to be employed as is next before ſayd.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> hauing put in Thirtie Lottes vnder one deuiſe or poeſie, within the ſayd three Moneths, ſhal winne the laſt Lot of all, (if before that Lot wonne he haue not gained ſo much as hath ben by him put in,) ſhal for his long tarying and yll fortune be comforted with the reward of Two hundreth poundes, and for euery Lot that he ſhall haue put in biſydes the ſayd Thirty Lots, he ſhall haue Twentie ſhillings ſterlyng.</p>
+               <p>
+                  <hi>AND</hi> whoſoeuer hauing put in .xxx. Lots vnder one deuiſe or poſie, within the ſayd three Moneths, ſhal win the laſt Lot ſaue one, &amp; haue not gained ſo much as he hath put in, ſhal likewiſe be co<g ref="char:cmbAbbrStroke">̄</g>forted for his long tarying, with the reward of .C. pounds, and for euery Lot that he ſhal haue put in aboue .xxx. ſhal receiue Ten ſhillings ſterling.</p>
+               <p>
+                  <hi>ITEM</hi> whoſoeuer ſhall aduenture from Fortie Lottes vpwarde, vnder one deuiſe or poſie, ſhall haue libertie to lay downe the one halfe in readie Money, and giue in bond for the other halfe, to the Co<g ref="char:cmbAbbrStroke">̄</g>miſſioner that in that behalfe ſhal be appointed to haue the Charge for that Citie or Towne, where the partie ſhal thinke good to pay his mo<g ref="char:EOLhyphen"/>ney, with condition to pay in the ſame money, for the which they ſhal be bound, Six wekes at the leaſt before the day appointed for the Reading of the Lotterie, vpon payn to forfaite the Money payde, and the benefit of any price. Which day of reading ſhall begyn within the Citie of London the .xxv. day of Iune next comming.</p>
+               <p>
+                  <hi>AND</hi> in caſe it ſhall fortune the ſame day of the Reading to be prolonged vpon any vrgent nedefull cauſe to a further day: The parties hauyng aduentured and put their mo<g ref="char:EOLhyphen"/>ney into the Lotterie, ſhall be allowed for the ſame, after the rate of Ten in the Hundred, from the day of the prorogation of the ſayd Readyng, vntill the very day of the firſt Reading of the Lotterie.</p>
+               <p>
+                  <hi>ITEM</hi> euery perſon to whome in the time of Reading any price ſhal happen and be due, the ſame price ſhal be deliuered vnto him the next day folowing, to diſpoſe of the ſame at his pleaſure, without that he ſhal be compelled to tary for the ſame vntil the ende of the reading. And being a ſtraunger borne, he ſhal haue libertie to conuert the ſame being money, into wares to be by him tranſported into foraine parts, paying only half cuſtome for the ſame, and other duties that otherwiſe he ſhould anſwer therfore.</p>
+               <p>
+                  <hi>VVHOSOEVER</hi> at the time of the Reading ſhall haue three of his owne poſies or deuiſes comming togethers ſucceſſiuely and immediatly one after another, the ſame ha<g ref="char:EOLhyphen"/>uing put in the ſayd three poſies within thre Moneths (as before) ſhall haue for the ſame poſies or deuiſes, ſo comming together one after another, Three pounds ſter<g ref="char:EOLhyphen"/>ling, ouer and beſydes the price anſwerable therfore.</p>
+               <p>
+                  <hi>AND</hi> whoſoeuer at the time of the reading ſhall haue foure poſies or deuiſes comming togethers ſucceſſiuely and immediately one after another, hauing put in his ſayd poſies within three Monethes, (as before mentioned) ſhall haue for the ſayd foure poſies or deuiſes Six poundes ſterling biſides the prices.</p>
+               <p>
+                  <hi>AND</hi> whoſoeuer at the time of the reading ſhall haue fiue poſies or deuiſes comming togethers ſucceſſiuely and immediatly one after another, hauyng put in his Lottes within three Moneths (as before) ſhall haue for the ſayd fiue poſies or deuiſes, Ten pounds ſterling byſides the prices.</p>
+               <p>
+                  <hi>AND</hi> whoſoeuer ſhal haue the like adue<g ref="char:cmbAbbrStroke">̄</g>ture ſix tymes togethers, hauing put in his Lots, as afore, ſhal haue for thoſe .vj. poſies or deuiſes .xxv. Pounds ſterling, &amp; the prices.</p>
+               <p>
+                  <hi>AND</hi> whoſoeuer ſhal haue like adue<g ref="char:cmbAbbrStroke">̄</g>ture ſeuen times togethers hauing put in his Lots (as afore) ſhal haue for thoſe .vij. poſies or deuiſes a hu<g ref="char:cmbAbbrStroke">̄</g>dreth pou<g ref="char:cmbAbbrStroke">̄</g>ds ſterling &amp; his prices.</p>
+               <p>
+                  <hi>AND</hi> whoſoeuer ſhal haue the like aduenture eight times togethers, hauing put in his Lots (as afore) ſhal haue for thoſe Eight, Two hundreth pounds ſterling, &amp; the prices.</p>
+               <p>
+                  <hi>AND</hi> ſo the poſies or deuiſes reſorting togethers by increaſe of number, he to whom they ſhall happen in that ſorte, hauing put in his money, as afore is ſayd, ſhal haue for euery tyme of increaſe, One hundreth poundes ſterling, and the prices.</p>
+               <p>
+                  <hi>THE</hi> Receipt &amp; Collection of this preſent Lotterie ſhal endure for the reſt of the Realme biſides Lo<g ref="char:cmbAbbrStroke">̄</g>don, vntil the .xv. day of April next co<g ref="char:cmbAbbrStroke">̄</g>ming, which ſhalbe in the yere. <hi>1568.</hi>
+               </p>
+               <p>
+                  <hi>AND</hi> the Receipt and Collection of the Citie of London ſhal continue vnto the firſt day of May next following: At which dayes or before, all the Collectours ſhal bring in their bokes of the collection of Lottes to ſuch as ſhal be appointed to receiue their accomptes, vpon paine if they do faile ſo to do, to loſe the profite and wages appointed to them for their trauell in that behalfe.</p>
+               <p>
+                  <hi>FINALLY</hi> it is to be vnderſtanded, that hir Maieſtie and the Citie of London will anſwere to all and ſingular perſons hauyng aduentured their money in this Lotterie, to obſerue all the articles and conditions contained in the ſame, from point to point inuiolably.</p>
+               <p>The ſhewe of the Prices and Rewardes aboue mentioned, ſhal be ſet vp to be ſéene in Cheapeſyde in London, at the Signe of the Quéenes Maieſties Armes, in the houſe of M. Dericke, Goloſmith, ſeruant to the Queenes moſt excellent Maieſtie.</p>
+            </div>
+            <closer>GOD ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London in Pater noſter Rowe, by Henrie Bynneman.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
